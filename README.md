@@ -11,4 +11,5 @@ Target variable Machine failure indicates machine failure at particular datapoin
 - power failure (PWF)
 - overstrain failure (OSF)
 - random failure (RNF)
+
 If at least one of the above failure modes is true, the process fails and the 'machine failure' label is set to 1. It is therefore not transparent to the machine learning method, which of the failure modes has caused the process to fail. Considering timeline and resources of study, study is limited to machine failure only. Eliminating five failure mode from dataframe.
