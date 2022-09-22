@@ -1,3 +1,3 @@
 # Predictive-Maintenance
 
-
+The detection of failures and flaw in manufacturing tools and equipment has demonstrated, to be a challenge to scale its assurance and execution. Deflation in manufacturing tools and equipment takes place owing to many elements, generally tool wear, strain, heat failure and power failure. The aim of this study is to determine the machine failure by construction of classifier model on predictive maintenance dataset. The class imbalance data compromise the performance of the constructed model and this is addressed by assessing the oversampling methods with Multi-Task Learning (MTL)architecture. Also, to gauge the performance of auxiliary learning towards the advancement of the primary task learning.
